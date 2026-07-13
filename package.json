@@ -1,0 +1,14 @@
+{
+  "name": "telegram-api-vercel",
+  "version": "1.0.0",
+  "description": "API sederhana untuk mengirim pesan Telegram via Vercel Serverless Functions",
+  "main": "api/send.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
